@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "f53ed69e-42cc-4dd6-b773-8c56362b467c",
+      "name": "Satyam Roy",
+      "email": "skroy2129@gmail.com"
+    },
+    {
+      "id": "c24c407d-92e0-40bc-a39d-ee7ffdeb904f",
+      "name": "Anubhav Bisht",
+      "email": "anubhavbisht98@gmail.com"
+    },
+    {
+      "id": "c56d6a7a-7a5b-4310-8805-92004cc22ee9",
+      "name": "Sachin Kumar",
+      "email": "kekkashiblass@gmail.com"
+    },
+    {
+      "id": "d9ac3854-bece-42ab-adb2-b7dcdae65d81",
+      "name": "Girish Bisht",
+      "email": "girishbisht@gmail.com"
+    },
+    {
+      "id": "a136807b-a079-4fa1-bd29-b76fd3b00d5f",
+      "name": "premansh",
+      "email": "prem@gmail.com"
+    },
+    {
+      "id": "68d03973-2c8f-4f41-b698-8029e7b9c90c",
+      "name": "kat",
+      "email": "kat@gmail.com"
+    },
+    {
+      "id": "47912727-2a86-444d-9c34-21bee604e6ed",
+      "name": "kamlesh",
+      "email": "kamlesh@gmail.com"
+    }
+  ]
+}
